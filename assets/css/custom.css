@@ -1,0 +1,8 @@
+/*Improve hero spacing on mobile*/
+@media (max-width:768px){
+ .hero{
+	padding-top: 2rem;
+	padding_bottom: 2rem;
+   }
+  }
+  

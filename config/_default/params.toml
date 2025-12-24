@@ -117,3 +117,10 @@ groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 heroStyle = "background"
+
+[typography]
+fontsize = "base"
+lineHeight = "relaxed"
+
+[Css]
+customCSS = ["css/custom.css"]
