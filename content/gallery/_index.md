@@ -3,10 +3,10 @@ title: Life in Frames
 ---
 
 ### Moments captured along the way - **Work**, **Travel**, **Ideas** and ***Life in Between***
-![MSK](/images/home.JPG)
-![Me](/images/me.JPG) ![Me](/images/mohammed.JPG)
-![Me](/images/MSK.PNG)
+![MSK](/images/home.jpg)
+![Me](/images/me.jpg) ![Me](/images/mohammed.jpg)
+![Me](/images/MSK.png)
 
-![Me](/images/h1.JPG)
+![Me](/images/h1.jpg)
 
-![Me](/images/home2.JPG)
+![Me](/images/home2.jpg)
