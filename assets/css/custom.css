@@ -60,9 +60,13 @@
      SOCIAL ICONS
      ----------------------------- */
 
-  .hero .social-icons {
+  .social-icons a {
+	transition: transform 0.2s ease;
     transform: scale(0.9);
     margin-bottom: 1.25rem;
+  }
+  .social-icons a:active {
+	  transform: scale(0.95);
   }
 
   /* -----------------------------
@@ -109,10 +113,10 @@
     text-align: center;
   }
 
-}
+ /* -----------------------------
+     Text Size & Spacing
+     ----------------------------- */
 
-/*Improve Markdown emphasis on mobile */
-@media (max-width: 768px) {
 	strong {
 		font-weight: 700 !important;
 	}
